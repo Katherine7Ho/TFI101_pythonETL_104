@@ -1,0 +1,14 @@
+Python
+MySQL
+MongoDB
+AWS
+Data mining
+AI
+Deep learning
+Machine learning
+cloud service
+OpenCV
+PythonETL
+Flask
+Git
+Linux
